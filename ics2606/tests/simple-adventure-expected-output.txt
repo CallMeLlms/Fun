@@ -1,0 +1,110 @@
+The health of Frodo Baggins is 100
+Frodo Baggins is alive.
+Name: Frodo Baggins
+Health: 100
+
+The health of Samwise Gamgee is 100
+Samwise Gamgee is alive.
+Name: Samwise Gamgee
+Health: 100
+
+The health of Smeagol is 100
+Smeagol is alive.
+Name: Smeagol
+Health: 100
+
+The item Sting has weight 1.5
+It also does 30 damage
+Name: Sting
+Weight: 1.5
+Damage: 30
+
+The item Taters has weight 0.3
+It also heals 45
+Name: Taters
+Weight: 0.3
+Health: 45
+
+The item There and Back Again has weight 5.3
+Name: There and Back Again
+Weight: 5.3
+
+The item Glowing Sting has weight 1.4
+It also does 60 damage
+Name: Glowing Sting
+Weight: 1.4
+Damage: 60
+
+The item POTATOES has weight 0.2
+It also heals 56
+Name: POTATOES
+Weight: 0.2
+Health: 56
+
+The item There and Back Again: And What Happened After has weight 15.7
+Name: There and Back Again: And What Happened After
+Weight: 15.7
+
+Use book on sword...
+Not usable
+Can use? false
+
+Use book on frodo...
+Not usable
+Can use? false
+
+Use book on null...
+Not usable
+Can use? false
+
+Use sword on gollum...
+Attack Smeagol with Glowing Sting for 60 damage!
+Smeagol lives!
+Can use? true
+
+The health of Smeagol is 40
+Smeagol is alive.
+Name: Smeagol
+Health: 40
+
+Use sword on book...
+Can use? false
+
+Use sword on null...
+Can use? false
+
+Use taters on null...
+Can use? false
+
+Use taters on book...
+Can use? false
+
+Use taters on gollums...
+Smeagol ate POTATOES for 56 health!
+Can use? true
+
+The health of Smeagol is 96
+Smeagol is alive.
+Name: Smeagol
+Health: 96
+
+Use sword on gollum...
+Attack Smeagol with Glowing Sting for 60 damage!
+Smeagol lives!
+The health of Smeagol is 36
+Smeagol is alive.
+Name: Smeagol
+Health: 36
+
+Use sword on gollum again...
+Attack Smeagol with Glowing Sting for 60 damage!
+Smeagol is dead!
+The health of Smeagol is 0
+Smeagol has passed on.
+Name: Smeagol
+Health: 0
+
+Use taters on gollum...
+Smeagol cannot be healed
+Can use? false
+
